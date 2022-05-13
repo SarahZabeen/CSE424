@@ -4,7 +4,7 @@ Extra-Credit-Bonus List for CSE424:
   link: https://github.com/SarahZabeen/Indigenous-Fish-Classification-of-Bangladesh-using-CNN
   
 - Submission 5 (Group Work) 
-  link: https://github.com/farhad324/CSE424/tree/main/submission%205 (Will be submitted by 10th May)
+  link: https://github.com/farhad324/CSE424/tree/main/submission%205
 
 
 Group Information:
